@@ -338,6 +338,9 @@ footer {
 
 @media (max-width: 768px){
 
+  .filmImage:hover{
+    transform: scale(1);
+  }
   
   .headerContainer{
     padding: 4vh 4vw;
