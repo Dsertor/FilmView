@@ -307,9 +307,6 @@ footer {
 /*---------MEDIA-QUERY----------*/
 /*------------------------------*/
 
-@media (max-width: 1440px){
-
-}
 
 @media (max-width: 1024px){
 
@@ -342,9 +339,9 @@ footer {
 @media (max-width: 768px){
 
   
-    .headerContainer{
-      padding: 4vh 4vw;
-    }
+  .headerContainer{
+    padding: 4vh 4vw;
+  }
 
   .menu{
     display: block;
@@ -376,9 +373,7 @@ footer {
   }
 }
 
-@media (max-width: 425px){
 
-}
 
 /*------------------------------*/
 /*----------ASIGNED-JS----------*/

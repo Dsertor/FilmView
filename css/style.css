@@ -513,10 +513,6 @@ footer {
 /*---------MEDIA-QUERY----------*/
 /*------------------------------*/
 
-@media (max-width: 1440px){
-
-}
-
 @media (max-width: 1024px){
 
   .headerContainer{
@@ -644,7 +640,10 @@ footer {
 }
 
 @media (max-width: 425px){
-
+  .titleHeroSection{
+    font-size: 4vh;
+    padding-bottom: 6vh;
+  }
 }
 
 /*------------------------------*/
